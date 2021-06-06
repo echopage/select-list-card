@@ -1,0 +1,21 @@
+{
+  "common": {
+    "version": "Versione",
+    "name": "Seleziona la scheda dall'elenco",
+    "description": "Mostra le opzioni di una entità input_select come scheda elenco cliccabile."
+  },
+  "error": {
+    "missing_entity": "Entità richiesta",
+    "invalid_configuration": "configurazione non valida",
+    "not_available": "L'entità non è disponibile."
+  },
+  "editor": {
+    "entity": "Entità (richiesta)",
+    "title": "Titolo della scheda (opzionale)",
+    "icon": "Icona (opzionale)",
+    "max_options": "Numero di opzioni mostrate (0 = tutte)",
+    "truncate": "Tronca il nome lungo dell'opzione",
+    "show_toggle": "Mostra il pulsante di scorrimento nell'intestazione",
+    "scroll_to_selected": "Opzione selezionata sempre in vista"
+  }
+}
